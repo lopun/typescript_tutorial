@@ -2,7 +2,12 @@
   "name": "typescript_tutorial",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "Typescript tutorial from academy.nomadcoders.com",
   "repository": "https://github.com/ujin43255252/typescript_tutorial.git",
   "author": "ujin43255252 <ujin43255252@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
