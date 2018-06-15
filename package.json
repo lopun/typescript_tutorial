@@ -1,0 +1,8 @@
+{
+  "name": "typescript_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ujin43255252/typescript_tutorial.git",
+  "author": "ujin43255252 <ujin43255252@gmail.com>",
+  "license": "MIT"
+}
